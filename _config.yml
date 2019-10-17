@@ -46,8 +46,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Home
-  url:  /
+  Home: /
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/adamwkraft

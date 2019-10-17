@@ -33,15 +33,21 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Home: /
-  Work Projects: /work_projects/
-  Personal Projects: /personal_projects/
-  Talks: /talks/
-#  Blog: /blog/
+- title:Home
+  url: /
+- title: Work Projects
+  url: /work_projects/
+- title: Personal Projects
+  url: /personal_projects/
+- title: Talks
+  url: /talks/
+#- title:Blog
+#  url: /blog/
 
 # Footer nav
 navigation_footer:
-  Home: /
+- title: Home
+  url:  /
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/adamwkraft

@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /index.html
 feature_image: "https://picsum.photos/id/872/2560/600"
 feature_text: |
   ## Adam Kraft

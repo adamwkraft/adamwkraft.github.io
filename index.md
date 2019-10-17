@@ -12,6 +12,7 @@ Before Orbital Insight, I worked at [A9 / Amazon](https://www.a9.com) on the Vis
 A9 develops the computer vision for all of the Amazon apps, including the "Search by Camera" feature.
 I graduated in 2011 with a BS/MS in Computer Science from Washington University in St. Louis, working with [Robert Pless](https://www.cs.seas.gwu.edu/robert-pless).
 
+
 Check out more:
 - [Work Projects](work_projects)
 - [Personal Projects](personal_projects)

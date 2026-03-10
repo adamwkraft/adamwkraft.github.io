@@ -1,0 +1,18 @@
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    {% for item in site.navigation_footer %}
+
+      {% if item[1] contains '://' %}
+        {% assign url = item[1] %}
+      {% else %}
+        {% assign url = item[1] | relative_url %}
+      {% endif %}
+
+
+        <a href="{{ url }}">{{ item[0] }}</a>
+    {% endfor %}
+        <a href="https://www.linkedin.com/in/adam-kraft-7555b534/">{% include icon.html id="linkedin" %}</a>
+        <a href="https://github.com/adamwkraft">{% include icon.html id="github" %}</a>
+        <a href="https://twitter.com/adamwkraft">{% include icon.html id="twitter" %}</a>
+  </ul>
+</nav>

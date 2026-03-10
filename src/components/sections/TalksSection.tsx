@@ -43,7 +43,7 @@ export default function TalksSection() {
             link: "https://www.youtube.com/watch?v=0Ubqfl8k7Ds",
         },
         {
-            title: "Artificial intelligence at Orbital Insight",
+            title: "Artificial Intelligence at Orbital Insight",
             event: "@Scale",
             date: "2018",
             description: "",

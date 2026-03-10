@@ -8,7 +8,7 @@ export default function TalksSection() {
             link: "https://aiml.events/events/mlops-summit-2022",
         },
         {
-            title: "RE-WORK Deep Learning Hybrid Summit Speaker",
+            title: "RE-WORK Deep Learning Hybrid Summit",
             event: "RE-WORK Deep Learning Hybrid Summit",
             date: "2022",
             description: "",

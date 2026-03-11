@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import NavBar from "@/components/NavBar";
 import Footer from "@/components/Footer";
+import Script from "next/script";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -37,6 +38,13 @@ export default function RootLayout({
           {children}
         </main>
         <Footer />
+
+        {/* Umami Analytics */}
+        <Script
+          defer
+          src="https://cloud.umami.is/script.js"
+          data-website-id="f4d35b0e-51dc-484c-aef7-74034874f335"
+        />
       </body>
     </html>
   );

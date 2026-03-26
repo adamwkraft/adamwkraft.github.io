@@ -20,7 +20,9 @@ export default function WorkSection() {
                         Google Brain / Google DeepMind• 2019 - Present
                     </h4>
                     <p className="text-foreground/90 dark:text-sky-100/90 mt-2 leading-relaxed">
-                        Working on research and applied machine learning / AI with several Google product areas (Gemini, Google Ads, Google Play, Google Search, and Google Cloud). Specializing in Personalization for Large Language Models (LLMs) and Large Recommendation Models (LRMs), Data Efficiency, and Model Efficiency.
+                        Joined Google Brain in 2019 (merged with DeepMind in 2023).
+                        Specializing in Personalization for Large Language Models (LLMs) and Large Recommendation Models (LRMs), Data Efficiency, Model Efficiency.
+                        Orchestrated 20+ successful launches across Gemini, Search, Ads, Play, and Cloud Vertex AI, resulting in +$xxxMM, a +x% boost to top-line metrics (Play), and widespread model efficiency gains.
                     </p>
                 </div>
 
